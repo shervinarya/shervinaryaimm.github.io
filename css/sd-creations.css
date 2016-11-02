@@ -1,0 +1,1192 @@
+.version.sd_creations /* version checker */
+{
+	color: #000012;
+	background-color: #5F876E;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 1px;
+	padding-bottom: 2px;
+	width: 0.01px;
+}
+
+#pu1350-3
+{
+	width: 0.01px;
+}
+
+#u1350-3
+{
+	z-index: 50;
+	width: 960px;
+	height: 285px;
+	margin-right: -10000px;
+}
+
+#u25985
+{
+	z-index: 53;
+	width: 403px;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 78px;
+}
+
+#u25991
+{
+	z-index: 55;
+	width: 435px;
+	height: 264px;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 481px;
+}
+
+#u25991:hover
+{
+	width: 435px;
+	height: 264px;
+	min-height: 0px;
+	margin: 14px -10000px 0px 0px;
+}
+
+#u25991:active
+{
+	width: 435px;
+	height: 264px;
+	min-height: 0px;
+	margin: 14px -10000px 0px 0px;
+}
+
+#u25991.MuseLinkActive
+{
+	width: 435px;
+	height: 264px;
+	min-height: 0px;
+	margin: 14px -10000px 0px 0px;
+}
+
+#u1581
+{
+	z-index: 7;
+	width: 960px;
+	height: 1px;
+}
+
+#u3275
+{
+	z-index: 3;
+	width: 960px;
+}
+
+#u2017
+{
+	z-index: 6;
+	width: 320px;
+	height: 34px;
+	margin-right: -10000px;
+}
+
+#u2017:hover
+{
+	width: 320px;
+	height: 34px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2017:active
+{
+	width: 320px;
+	height: 34px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1818
+{
+	z-index: 4;
+	width: 320px;
+	height: 34px;
+	margin-right: -10000px;
+	left: 320px;
+}
+
+#u2017.MuseLinkActive,#u1818:hover
+{
+	width: 320px;
+	height: 34px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1818:active
+{
+	width: 320px;
+	height: 34px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1840
+{
+	z-index: 5;
+	width: 320px;
+	height: 34px;
+	margin-right: -10000px;
+	left: 640px;
+}
+
+#u1818.MuseLinkActive,#u1840:hover
+{
+	width: 320px;
+	height: 34px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1840:active
+{
+	width: 320px;
+	height: 34px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1840.MuseLinkActive
+{
+	width: 320px;
+	height: 34px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1686
+{
+	z-index: 2;
+	width: 960px;
+	height: 1px;
+}
+
+#u26013-4
+{
+	z-index: 74;
+	margin-left: 37px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u26013-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#u25051
+{
+	z-index: 72;
+	width: 960px;
+	height: 1px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #C7C7C7;
+	left: -1px;
+	top: -3px;
+	margin-bottom: -1px;
+	position: relative;
+}
+
+#pu22960
+{
+	width: 0.01px;
+	margin-left: 37px;
+	margin-top: 12px;
+}
+
+#u22960
+{
+	z-index: 64;
+	width: 247px;
+	height: 184px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/b-a%20natural%20history-normal.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u22960:hover
+{
+	width: 247px;
+	height: 184px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/b-a%20natural%20history-rollover.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u22960:active
+{
+	width: 247px;
+	height: 184px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/b-a%20natural%20history-down.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u25001
+{
+	z-index: 71;
+	width: 247px;
+	height: 184px;
+	position: relative;
+	margin-right: -10000px;
+	left: 319px;
+	background: transparent url("../images/b-the-great-decline-normal.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u25001:hover
+{
+	width: 247px;
+	height: 184px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/b-the-great-decline-rollover.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u25001:active
+{
+	width: 247px;
+	height: 184px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/b-the-great-decline-down.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u23052
+{
+	z-index: 67;
+	width: 247px;
+	height: 184px;
+	position: relative;
+	margin-right: -10000px;
+	left: 638px;
+	background: transparent url("../images/b-the-recovery-normal.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u23052:hover
+{
+	width: 247px;
+	height: 184px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/b-the-recovery-rollover.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u23052:active
+{
+	width: 247px;
+	height: 184px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/b-the-recovery-down.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u22983
+{
+	z-index: 65;
+	width: 247px;
+	height: 184px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/b-weymouth%20herring%20run-normal.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u22983:hover
+{
+	width: 247px;
+	height: 184px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/b-weymouth%20herring%20run-rollover.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u22983:active
+{
+	width: 247px;
+	height: 184px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/b-weymouth%20herring%20run-down.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u23006
+{
+	z-index: 66;
+	width: 247px;
+	height: 184px;
+	position: relative;
+	margin-right: -10000px;
+	left: 319px;
+	background: transparent url("../images/b-mystic%20herring%20run-normal.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u23006:hover
+{
+	width: 247px;
+	height: 184px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/b-mystic%20herring%20run-rollover.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u23006:active
+{
+	width: 247px;
+	height: 184px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/b-mystic%20herring%20run-down.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u14145
+{
+	z-index: 60;
+	width: 247px;
+	height: 169px;
+	position: relative;
+	margin-right: -10000px;
+	left: 638px;
+	background: transparent url("../images/b-soundtrack-normal.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u14145:hover
+{
+	width: 247px;
+	height: 169px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/b-soundtrack-rollover.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u14145:active
+{
+	width: 247px;
+	height: 169px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/b-soundtrack-down.png") no-repeat left top;
+	background-size: contain;
+}
+
+#pu22983,#pu25686
+{
+	width: 0.01px;
+	margin-left: 37px;
+	margin-top: 4px;
+}
+
+#u25686
+{
+	z-index: 73;
+	width: 247px;
+	height: 169px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/b-benthos%20opportunists%20-%20a%20natural%20history.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u25686:hover
+{
+	width: 247px;
+	height: 169px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/b-benthos%20opportunists%20-%20a%20natural%20history-rollover.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u25686:active
+{
+	width: 247px;
+	height: 169px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/b-benthos%20opportunists%20-%20a%20natural%20history-down.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u4702
+{
+	z-index: 59;
+	width: 247px;
+	height: 169px;
+	position: relative;
+	margin-right: -10000px;
+	left: 319px;
+	background: transparent url("../images/b-the%20blanding-s%20dilemma-normal.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u4702:hover
+{
+	width: 247px;
+	height: 169px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/b-the%20blanding-s%20dilemma-rollover.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u4702:active
+{
+	width: 247px;
+	height: 169px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/b-the%20blanding-s%20dilemma-down.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u23074
+{
+	z-index: 68;
+	width: 247px;
+	height: 169px;
+	position: relative;
+	margin-right: -10000px;
+	left: 638px;
+	background: transparent url("../images/b-the%20northeast%20avifauna%20puzzle-normal.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u23074:hover
+{
+	width: 247px;
+	height: 169px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/b-the%20northeast%20avifauna%20puzzle-rollover.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u23074:active
+{
+	width: 247px;
+	height: 169px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/b-the%20northeast%20avifauna%20puzzle-down.png") no-repeat left top;
+	background-size: contain;
+}
+
+#pu24932
+{
+	width: 0.01px;
+	margin-left: 37px;
+	margin-top: 20px;
+}
+
+#u24932
+{
+	z-index: 69;
+	width: 247px;
+	height: 169px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	background: transparent url("../images/b-the%20flora%20question-normal.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u24932:hover
+{
+	width: 247px;
+	height: 169px;
+	min-height: 0px;
+	margin: 1px -10000px 0px 0px;
+	background: transparent url("../images/b-the%20flora%20question-rollover.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u24932:active
+{
+	width: 247px;
+	height: 169px;
+	min-height: 0px;
+	margin: 1px -10000px 0px 0px;
+	background: transparent url("../images/b-the%20flora%20question-down.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u24954
+{
+	z-index: 70;
+	width: 247px;
+	height: 169px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 319px;
+	background: transparent url("../images/b-muddyriver-normal.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u24954:hover
+{
+	width: 247px;
+	height: 169px;
+	min-height: 0px;
+	margin: 1px -10000px 0px 0px;
+	background: transparent url("../images/b-muddyriver-rollover.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u24954:active
+{
+	width: 247px;
+	height: 169px;
+	min-height: 0px;
+	margin: 1px -10000px 0px 0px;
+	background: transparent url("../images/b-muddyriver-down.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u14189
+{
+	z-index: 62;
+	width: 247px;
+	height: 169px;
+	position: relative;
+	margin-right: -10000px;
+	left: 638px;
+	background: transparent url("../images/b-nature%20visitor%20center-normal.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u14189:hover
+{
+	width: 247px;
+	height: 169px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/b-nature%20visitor%20center-rollover.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u14189:active
+{
+	width: 247px;
+	height: 169px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/b-nature%20visitor%20center-down.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u14167
+{
+	z-index: 61;
+	width: 247px;
+	height: 169px;
+	margin-left: 356px;
+	margin-top: 19px;
+	position: relative;
+	background: transparent url("../images/b-miscellaneous%20projects-normal.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u14167:hover
+{
+	width: 247px;
+	height: 169px;
+	min-height: 0px;
+	margin: 19px 0px 0px 356px;
+	background: transparent url("../images/b-miscellaneous%20projects-rollover.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u14167:active
+{
+	width: 247px;
+	height: 169px;
+	min-height: 0px;
+	margin: 19px 0px 0px 356px;
+	background: transparent url("../images/b-miscellaneous%20projects-down.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u14282
+{
+	z-index: 63;
+	width: 960px;
+	height: 1px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #C7C7C7;
+	left: -1px;
+	margin-top: 23px;
+	position: relative;
+}
+
+#pu26266
+{
+	width: 0.01px;
+	margin-left: 398px;
+	margin-top: 8px;
+}
+
+#u26266
+{
+	z-index: 56;
+	width: 50px;
+	height: 50px;
+	margin-right: -10000px;
+}
+
+#u26266:hover
+{
+	width: 50px;
+	height: 50px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u26266:active
+{
+	width: 50px;
+	height: 50px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u26267
+{
+	z-index: 57;
+	width: 50px;
+	height: 50px;
+	margin-right: -10000px;
+	left: 58px;
+}
+
+#u26266.MuseLinkActive,#u26267:hover
+{
+	width: 50px;
+	height: 50px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u26267:active
+{
+	width: 50px;
+	height: 50px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u26268
+{
+	z-index: 58;
+	width: 50px;
+	height: 50px;
+	margin-right: -10000px;
+	left: 115px;
+}
+
+#u26267.MuseLinkActive,#u26268:hover
+{
+	width: 50px;
+	height: 50px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u26268:active
+{
+	width: 50px;
+	height: 50px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u26268.MuseLinkActive
+{
+	width: 50px;
+	height: 50px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u7062
+{
+	z-index: 8;
+	width: 960px;
+	height: 1px;
+	margin-top: 8px;
+}
+
+#menuu10565
+{
+	z-index: 9;
+	width: 442px;
+	margin-left: 259px;
+	margin-top: 8px;
+}
+
+#u10573
+{
+	width: 46px;
+	min-height: 12px;
+	margin-right: -10000px;
+	left: 10px;
+}
+
+#u10574
+{
+	width: 45px;
+}
+
+#u10574:hover
+{
+	width: 45px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u10574:active
+{
+	width: 45px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u10574.MuseMenuActive
+{
+	width: 45px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u10575-4
+{
+	width: 35px;
+	min-height: 12px;
+	padding-left: 10px;
+	padding-right: 11px;
+	left: -6px;
+}
+
+#u10574:hover #u10575-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 35px;
+	margin: 0px;
+}
+
+#u10574:active #u10575-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 35px;
+	margin: 0px;
+}
+
+#u10574.MuseMenuActive #u10575-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 35px;
+	margin: 0px;
+}
+
+#u10616
+{
+	width: 80px;
+	min-height: 12px;
+	margin-right: -10000px;
+	left: 58px;
+}
+
+#u10619
+{
+	width: 79px;
+}
+
+#u10619:hover
+{
+	width: 79px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u10619:active
+{
+	width: 79px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u10619.MuseMenuActive
+{
+	width: 79px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u10622-4
+{
+	width: 69px;
+	min-height: 12px;
+	padding-left: 10px;
+	padding-right: 11px;
+	left: -6px;
+}
+
+#u10619:hover #u10622-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 69px;
+	margin: 0px;
+}
+
+#u10619:active #u10622-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 69px;
+	margin: 0px;
+}
+
+#u10619.MuseMenuActive #u10622-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 69px;
+	margin: 0px;
+}
+
+#u10594
+{
+	width: 71px;
+	min-height: 12px;
+	margin-right: -10000px;
+	left: 140px;
+}
+
+#u10595
+{
+	width: 70px;
+}
+
+#u10595:hover
+{
+	width: 70px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u10595:active
+{
+	width: 70px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u10595.MuseMenuActive
+{
+	width: 70px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u10598-4
+{
+	width: 60px;
+	min-height: 12px;
+	padding-left: 10px;
+	padding-right: 11px;
+	left: -6px;
+}
+
+#u10595:hover #u10598-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 60px;
+	margin: 0px;
+}
+
+#u10595:active #u10598-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 60px;
+	margin: 0px;
+}
+
+#u10595.MuseMenuActive #u10598-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 60px;
+	margin: 0px;
+}
+
+#u10580
+{
+	width: 51px;
+	min-height: 12px;
+	margin-right: -10000px;
+	left: 213px;
+}
+
+#u10581
+{
+	width: 50px;
+}
+
+#u10581:hover
+{
+	width: 50px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u10581:active
+{
+	width: 50px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u10581.MuseMenuActive
+{
+	width: 50px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u10583-4
+{
+	width: 40px;
+	min-height: 12px;
+	padding-left: 10px;
+	padding-right: 11px;
+	left: -6px;
+}
+
+#u10581:hover #u10583-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 40px;
+	margin: 0px;
+}
+
+#u10581:active #u10583-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 40px;
+	margin: 0px;
+}
+
+#u10581.MuseMenuActive #u10583-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 40px;
+	margin: 0px;
+}
+
+#u10566
+{
+	width: 63px;
+	min-height: 12px;
+	margin-right: -10000px;
+	left: 266px;
+}
+
+#u10567
+{
+	width: 62px;
+}
+
+#u10567:hover
+{
+	width: 62px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u10567:active
+{
+	width: 62px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u10567.MuseMenuActive
+{
+	width: 62px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u10570-4
+{
+	width: 52px;
+	min-height: 12px;
+	padding-left: 10px;
+	padding-right: 11px;
+	left: -6px;
+}
+
+#u10567:hover #u10570-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 52px;
+	margin: 0px;
+}
+
+#u10567:active #u10570-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 52px;
+	margin: 0px;
+}
+
+#u10567.MuseMenuActive #u10570-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 52px;
+	margin: 0px;
+}
+
+#u10587
+{
+	width: 100px;
+	min-height: 12px;
+	margin-right: -10000px;
+	left: 331px;
+}
+
+#u10588
+{
+	width: 100px;
+}
+
+#u10588.MuseMenuActive
+{
+	width: 100px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u10591-4
+{
+	width: 90px;
+	min-height: 12px;
+	padding-left: 10px;
+	padding-right: 11px;
+	left: -6px;
+}
+
+#u10588:hover #u10591-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 90px;
+	margin: 0px;
+}
+
+#u10588:active #u10591-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 90px;
+	margin: 0px;
+}
+
+#u10588.MuseMenuActive #u10591-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 90px;
+	margin: 0px;
+}
+
+#u12613-4
+{
+	z-index: 46;
+	width: 644px;
+	min-height: 19px;
+	margin-left: 156px;
+	margin-top: 2px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-bottom: 3px;
+}
+

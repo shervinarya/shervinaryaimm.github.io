@@ -1,0 +1,441 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.illuminatingmindsmedia.com" resolutions="1x" timestamp="1463663654391">
+  <folder name="css">
+    <file name="site_global.css" crc="4127633285"/>
+    <file name="master_sdtop-pages.css" crc="3772522660" ref="sd-creations:sd-services:sd-about"/>
+    <file name="master_sd--about.css" crc="4140917564" ref="sd-contact:sd-profile:sd-terms-of-use"/>
+    <file name="master_home.css" crc="3784200346" ref="index"/>
+    <file name="master_sd--services.css" crc="243411588" ref="sd-project-themes:sd-productions:sd-store"/>
+    <file name="master_hdplaceholder.css" crc="237681223" ref="humanities"/>
+    <file name="master_sdcreations.css" crc="436119519" ref="nature-visitor-centers:river-herring-migration-complete-soundtrack:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:the-marine-impact:the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-the-mystic-herring-run:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:the-avifauna-puzzle:the-flora-question:a-muddy-river"/>
+    <file name="nature-visitor-centers.css" crc="192002105" ref="nature-visitor-centers"/>
+    <file name="index.css" crc="4276466430" ref="index"/>
+    <file name="river-herring-migration-complete-soundtrack.css" crc="81637804" ref="river-herring-migration-complete-soundtrack"/>
+    <file name="sd-project-themes.css" crc="44438525" ref="sd-project-themes"/>
+    <file name="sd-contact.css" crc="59618248" ref="sd-contact"/>
+    <file name="sd-profile.css" crc="4145707984" ref="sd-profile"/>
+    <file name="sd-terms-of-use.css" crc="4184327835" ref="sd-terms-of-use"/>
+    <file name="humanities.css" crc="4276395604" ref="humanities"/>
+    <file name="sd-productions.css" crc="3925135475" ref="sd-productions"/>
+    <file name="miscellaneous-projects.css" crc="4089427177" ref="miscellaneous-projects"/>
+    <file name="river-herring-migration-weymouth-herring-run.css" crc="3968382726" ref="river-herring-migration-weymouth-herring-run"/>
+    <file name="river-herring-migration-a-complicated-path-the-recovery.css" crc="70139865" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="sd-creations.css" crc="308250478" ref="sd-creations"/>
+    <file name="sd-store.css" crc="498870335" ref="sd-store"/>
+    <file name="sd-services.css" crc="32552000" ref="sd-services"/>
+    <file name="the-marine-impact.css" crc="3804692634" ref="the-marine-impact"/>
+    <file name="sd-about.css" crc="94180823" ref="sd-about"/>
+    <file name="the-benthos-opportunists-a-natural-history.css" crc="4255511283" ref="the-benthos-opportunists-a-natural-history"/>
+    <file name="the-blandings-dilemma.css" crc="3837830933" ref="the-blandings-dilemma"/>
+    <file name="river-herring-migration-the-mystic-herring-run.css" crc="4120013432" ref="river-herring-migration-the-mystic-herring-run"/>
+    <file name="river-herring-migration-a-natural-history.css" crc="164709938" ref="river-herring-migration-a-natural-history"/>
+    <file name="river-herring-migration-a-complicated-path-the-great-decline.css" crc="4045313812" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="the-avifauna-puzzle.css" crc="4124000688" ref="the-avifauna-puzzle"/>
+    <file name="the-flora-question.css" crc="251744713" ref="the-flora-question"/>
+    <file name="a-muddy-river.css" crc="4003452322" ref="a-muddy-river"/>
+  </folder>
+  <folder name="assets">
+    <file name="imm-logo-sd-division.jpg" crc="3923470297" mt="1395759863000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:sd-creations:sd-services:sd-about:the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:sd-project-themes:sd-contact:sd-profile:sd-terms-of-use:humanities:sd-productions:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:sd-store:the-marine-impact"/>
+    <file name="museutils.js" crc="275725342" ref="index:sd-creations:sd-services:sd-about:the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:sd-project-themes:sd-contact:sd-profile:sd-terms-of-use:humanities:sd-productions:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:sd-store:the-marine-impact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact:humanities:sd-store"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:sd-creations:sd-services:sd-about:the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:sd-project-themes:sd-contact:sd-profile:sd-terms-of-use:humanities:sd-productions:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:sd-store:the-marine-impact"/>
+    <file name="webpro.js" crc="3883484123" ref="the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:the-marine-impact"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:the-marine-impact"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:the-marine-impact"/>
+    <file name="touchswipe.js" crc="4218319045" ref="the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:the-marine-impact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:sd-creations:sd-services:sd-about:the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:sd-project-themes:sd-contact:sd-profile:sd-terms-of-use:humanities:sd-productions:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:sd-store:the-marine-impact"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="411532325" ref="index"/>
+    <file name="buttons-creations-sd2.png" crc="124370791" ref="river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:river-herring-migration-complete-soundtrack:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:river-herring-migration-a-natural-history:the-avifauna-puzzle:the-benthos-opportunists-a-natural-history:the-blandings-dilemma:the-flora-question:a-muddy-river:nature-visitor-centers:miscellaneous-projects:the-marine-impact" seo="true"/>
+    <file name="buttons-services-sd2.png" crc="3975196017" ref="sd-store:sd-project-themes:sd-productions" seo="true"/>
+    <file name="buttons-about-sd2.png" crc="4169912069" ref="sd-contact:sd-profile:sd-terms-of-use" seo="true"/>
+    <file name="b-benthos opportunists - a natural history.jpg" crc="243091165" ref="sd-creations"/>
+    <file name="state of the mystic benthos.jpg" crc="29375852" ref="the-benthos-opportunists-a-natural-history" seo="true"/>
+    <file name="u5041-4.png" crc="4076802078" ref="the-benthos-opportunists-a-natural-history"/>
+    <file name="u5045-4.png" crc="491663569" ref="the-benthos-opportunists-a-natural-history"/>
+    <file name="u5047-4.png" crc="176181355" ref="the-benthos-opportunists-a-natural-history"/>
+    <file name="u5051-4.png" crc="3944361356" ref="the-benthos-opportunists-a-natural-history"/>
+    <file name="youtube_placeholder.jpg" crc="4138879424" ref="the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:the-avifauna-puzzle:the-flora-question:a-muddy-river:the-marine-impact" seo="true"/>
+    <file name="u5060-4.png" crc="4285039776" ref="the-benthos-opportunists-a-natural-history"/>
+    <file name="u24647-4.png" crc="423139789" ref="the-benthos-opportunists-a-natural-history"/>
+    <file name="1-buttomslider-a-natural-history.jpg" crc="4077089975" ref="the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:the-marine-impact" seo="true"/>
+    <file name="blank.gif" crc="4208392903" ref="the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:the-marine-impact"/>
+    <file name="the great decline.png" crc="4292059675" ref="the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:the-marine-impact" seo="true"/>
+    <file name="5-buttomslider-the-recovery.jpg" crc="3812957712" ref="the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:the-marine-impact" seo="true"/>
+    <file name="2-buttomslider-weymouth-herring-run.jpg" crc="131719103" ref="the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:the-marine-impact" seo="true"/>
+    <file name="3-buttomslider-herring-mystic-run.jpg" crc="3881284849" ref="the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:the-marine-impact" seo="true"/>
+    <file name="4-buttomslider-the-soundtrack.jpg" crc="4105857667" ref="the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:the-marine-impact" seo="true"/>
+    <file name="5-buttomslider-benthos-opportunists-a-natural-history.jpg" crc="4058540508" ref="the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:the-marine-impact" seo="true"/>
+    <file name="6-buttomslider-the-blandings-dilemma.jpg" crc="502462939" ref="the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:the-marine-impact" seo="true"/>
+    <file name="7-buttomslider-northeast-avifauna-puzzle.jpg" crc="323712170" ref="the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:the-marine-impact" seo="true"/>
+    <file name="8-buttomslider-the-flora-question.jpg" crc="38711905" ref="the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:the-marine-impact" seo="true"/>
+    <file name="the marine impact.jpg" crc="4017466746" ref="the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:the-marine-impact" seo="true"/>
+    <file name="9-buttomslider-the-muddy-river.jpg" crc="4037702421" ref="the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:the-marine-impact" seo="true"/>
+    <file name="10-buttomslider-the visitor center.jpg" crc="442714800" ref="the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:the-marine-impact" seo="true"/>
+    <file name="b-miscellaneous projects.jpg" crc="521439788" ref="the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:the-marine-impact" seo="true"/>
+    <file name="loading.gif" crc="3815509949" ref="the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:the-marine-impact"/>
+    <file name="the blandings dilemma.jpg" crc="4094919768" ref="the-blandings-dilemma" seo="true"/>
+    <file name="u5091-4.png" crc="430504838" ref="the-blandings-dilemma"/>
+    <file name="u5092-4.png" crc="88998338" ref="the-blandings-dilemma"/>
+    <file name="u5093-4.png" crc="4201611508" ref="the-blandings-dilemma"/>
+    <file name="u5094-4.png" crc="113714286" ref="the-blandings-dilemma"/>
+    <file name="u5095-4.png" crc="210936390" ref="the-blandings-dilemma"/>
+    <file name="u24516-4.png" crc="423139789" ref="the-blandings-dilemma"/>
+    <file name="a natural history.jpg" crc="257098847" ref="river-herring-migration-a-natural-history" seo="true"/>
+    <file name="u5143-6.png" crc="3976566730" ref="river-herring-migration-a-natural-history"/>
+    <file name="u18131-4.png" crc="3895680595" ref="river-herring-migration-a-natural-history"/>
+    <file name="u13948-4.png" crc="4283667200" ref="river-herring-migration-a-natural-history"/>
+    <file name="u5120-4.png" crc="151611617" ref="river-herring-migration-a-natural-history"/>
+    <file name="u5126-4.png" crc="3852310912" ref="river-herring-migration-a-natural-history"/>
+    <file name="u5127-4.png" crc="3912601832" ref="river-herring-migration-a-natural-history"/>
+    <file name="u24778-4.png" crc="423139789" ref="river-herring-migration-a-natural-history"/>
+    <file name="u18176-6.png" crc="4274457618" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="onlinestore-hms.jpg" crc="3998608714" ref="river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:river-herring-migration-complete-soundtrack:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery" seo="true"/>
+    <file name="u5157-4.png" crc="85593134" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="ig1-ma.jpg" crc="224876026" ref="river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery" seo="true"/>
+    <file name="ig2-dc.jpg" crc="254205863" ref="river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-a-complicated-path-the-recovery" seo="true"/>
+    <file name="ig3-bc.jpg" crc="4036748269" ref="river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery" seo="true"/>
+    <file name="ig5-jd.jpg" crc="3803282602" ref="river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-a-complicated-path-the-recovery" seo="true"/>
+    <file name="ig6-sd.jpg" crc="173755314" ref="river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery" seo="true"/>
+    <file name="ig7-pd.jpg" crc="3862386490" ref="river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-a-complicated-path-the-recovery" seo="true"/>
+    <file name="ig8-ph.jpg" crc="4032951418" ref="river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery" seo="true"/>
+    <file name="ig9-el.jpg" crc="4015898945" ref="river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-a-complicated-path-the-recovery" seo="true"/>
+    <file name="ig10-pl.jpg" crc="10147285" ref="river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery" seo="true"/>
+    <file name="ig11-lc.jpg" crc="397042572" ref="river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:river-herring-migration-a-complicated-path-the-recovery" seo="true"/>
+    <file name="ig12-ek.jpg" crc="444945960" ref="river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:river-herring-migration-a-complicated-path-the-recovery" seo="true"/>
+    <file name="ig14-jk.jpg" crc="3811406767" ref="river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:river-herring-migration-a-complicated-path-the-recovery" seo="true"/>
+    <file name="ig15-ng.jpg" crc="118184026" ref="river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:river-herring-migration-a-complicated-path-the-recovery" seo="true"/>
+    <file name="ig16-am.jpg" crc="93123006" ref="river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-a-complicated-path-the-recovery" seo="true"/>
+    <file name="ig17-jm.jpg" crc="4114574857" ref="river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-a-complicated-path-the-recovery" seo="true"/>
+    <file name="ig18-js.jpg" crc="22948997" ref="river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:river-herring-migration-a-complicated-path-the-recovery" seo="true"/>
+    <file name="ig19-rs.jpg" crc="131344006" ref="river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-a-complicated-path-the-recovery" seo="true"/>
+    <file name="ig20-tw.jpg" crc="4266238700" ref="river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-a-complicated-path-the-recovery" seo="true"/>
+    <file name="ig22-sw.jpg" crc="527800067" ref="river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery" seo="true"/>
+    <file name="u18183-4.png" crc="4241936841" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="u5155-4.png" crc="174039490" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="u18201-4.png" crc="3852310912" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="u23110-4.png" crc="453499596" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="u5167-4.png" crc="512972667" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="u25052-7.png" crc="130869010" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="u18202-4.png" crc="423139789" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="herring mystic run.jpg" crc="3867688621" ref="river-herring-migration-the-mystic-herring-run" seo="true"/>
+    <file name="u18206-6.png" crc="431224449" ref="river-herring-migration-the-mystic-herring-run"/>
+    <file name="u5188-4.png" crc="3985876933" ref="river-herring-migration-the-mystic-herring-run"/>
+    <file name="ig24-es.jpg" crc="238951016" ref="river-herring-migration-the-mystic-herring-run" seo="true"/>
+    <file name="ig23-mf.jpg" crc="3956520370" ref="river-herring-migration-the-mystic-herring-run" seo="true"/>
+    <file name="ig24-mm.jpg" crc="258649133" ref="river-herring-migration-the-mystic-herring-run" seo="true"/>
+    <file name="ig-philipwyne.jpg" crc="4200198831" ref="river-herring-migration-the-mystic-herring-run" seo="true"/>
+    <file name="u18769-4.png" crc="4241936841" ref="river-herring-migration-the-mystic-herring-run"/>
+    <file name="u5186-4.png" crc="4151214725" ref="river-herring-migration-the-mystic-herring-run"/>
+    <file name="u5190-4.png" crc="3794721492" ref="river-herring-migration-the-mystic-herring-run"/>
+    <file name="u24920-4.png" crc="453499596" ref="river-herring-migration-the-mystic-herring-run"/>
+    <file name="u5191-4.png" crc="3912601832" ref="river-herring-migration-the-mystic-herring-run"/>
+    <file name="u25054-7.png" crc="130869010" ref="river-herring-migration-the-mystic-herring-run"/>
+    <file name="u23468-4.png" crc="423139789" ref="river-herring-migration-the-mystic-herring-run"/>
+    <file name="northeast avifauna puzzle.jpg" crc="141966088" ref="the-avifauna-puzzle" seo="true"/>
+    <file name="u5218-4.png" crc="4151214725" ref="the-avifauna-puzzle"/>
+    <file name="u5220-4.png" crc="521389838" ref="the-avifauna-puzzle"/>
+    <file name="u5222-4.png" crc="4148232946" ref="the-avifauna-puzzle"/>
+    <file name="u5223-4.png" crc="3912601832" ref="the-avifauna-puzzle"/>
+    <file name="u24385-4.png" crc="423139789" ref="the-avifauna-puzzle"/>
+    <file name="the flora question.jpg" crc="349851388" ref="the-flora-question" seo="true"/>
+    <file name="u5388-6.png" crc="194702707" ref="the-flora-question"/>
+    <file name="u5231-4.png" crc="74770175" ref="the-flora-question"/>
+    <file name="u5233-4.png" crc="478951666" ref="the-flora-question"/>
+    <file name="u5235-4.png" crc="3852310912" ref="the-flora-question"/>
+    <file name="u5236-4.png" crc="3912601832" ref="the-flora-question"/>
+    <file name="u24254-4.png" crc="423139789" ref="the-flora-question"/>
+    <file name="the muddy river.jpg" crc="96317230" ref="a-muddy-river" seo="true"/>
+    <file name="u5370-4.png" crc="3939364223" ref="a-muddy-river"/>
+    <file name="u5257-4.png" crc="60774671" ref="a-muddy-river"/>
+    <file name="u5259-4.png" crc="137970047" ref="a-muddy-river"/>
+    <file name="u5261-4.png" crc="113714286" ref="a-muddy-river"/>
+    <file name="u5262-4.png" crc="3912601832" ref="a-muddy-river"/>
+    <file name="u23861-4.png" crc="423139789" ref="a-muddy-river"/>
+    <file name="the visitor center.png" crc="286247048" ref="nature-visitor-centers" seo="true"/>
+    <file name="u5377-4.png" crc="3868630418" ref="nature-visitor-centers"/>
+    <file name="u5270-4.png" crc="3967862665" ref="nature-visitor-centers"/>
+    <file name="shervinaryaassabet.jpg" crc="3924441726" ref="nature-visitor-centers" seo="true"/>
+    <file name="u5274-4.png" crc="184906494" ref="nature-visitor-centers"/>
+    <file name="mural2.jpg" crc="398213786" ref="nature-visitor-centers" seo="true"/>
+    <file name="murall.jpg" crc="3999084007" ref="nature-visitor-centers" seo="true"/>
+    <file name="u14223-4.png" crc="111519578" ref="nature-visitor-centers"/>
+    <file name="mt washington.jpg" crc="276471877" ref="nature-visitor-centers" seo="true"/>
+    <file name="spinbrowser.jpg" crc="344768958" ref="nature-visitor-centers" seo="true"/>
+    <file name="u5275-4.png" crc="3912601832" ref="nature-visitor-centers"/>
+    <file name="u23730-4.png" crc="423139789" ref="nature-visitor-centers"/>
+    <file name="the soundtrack.png" crc="515215334" ref="river-herring-migration-complete-soundtrack" seo="true"/>
+    <file name="u13931-6.png" crc="172715400" ref="river-herring-migration-complete-soundtrack"/>
+    <file name="u5283-4.png" crc="3908606670" ref="river-herring-migration-complete-soundtrack"/>
+    <file name="cp-logo.jpg" crc="4241009923" ref="river-herring-migration-complete-soundtrack" seo="true"/>
+    <file name="u25609-4.png" crc="3794721492" ref="river-herring-migration-complete-soundtrack"/>
+    <file name="u5285-4.png" crc="118297314" ref="river-herring-migration-complete-soundtrack"/>
+    <file name="chris-renna.jpg" crc="33602571" ref="river-herring-migration-complete-soundtrack" seo="true"/>
+    <file name="u5288-4.png" crc="4192204024" ref="river-herring-migration-complete-soundtrack"/>
+    <file name="u23599-4.png" crc="423139789" ref="river-herring-migration-complete-soundtrack"/>
+    <file name="project themes.jpg" crc="169584998" ref="sd-project-themes" seo="true"/>
+    <file name="u3382-4.png" crc="4031199346" ref="sd-project-themes"/>
+    <file name="u3383-4.png" crc="4071032013" ref="sd-project-themes"/>
+    <file name="u3388-4.png" crc="232922576" ref="sd-project-themes"/>
+    <file name="u13928-4.png" crc="431230384" ref="sd-project-themes"/>
+    <file name="contactus.png" crc="358592279" ref="sd-contact" seo="true"/>
+    <file name="u4334-4.png" crc="358148762" ref="sd-contact"/>
+    <file name="u6283-4.png" crc="321204711" ref="sd-contact"/>
+    <file name="u4336-4.png" crc="296342269" ref="sd-contact"/>
+    <file name="u4337-4.png" crc="4188020375" ref="sd-contact"/>
+    <file name="opening lcd font poster facebook.jpg" crc="3924201635" ref="sd-profile" seo="true"/>
+    <file name="u4327-4.png" crc="3786278778" ref="sd-profile"/>
+    <file name="u4328-4.png" crc="3824955307" ref="sd-profile"/>
+    <file name="u4331-4.png" crc="3955841430" ref="sd-terms-of-use"/>
+    <file name="u4330-4.png" crc="409632131" ref="sd-terms-of-use"/>
+    <file name="humanities-under-development-favicon.ico" crc="3797120043" ref="humanities"/>
+    <file name="u6016-4.png" crc="3976412214" ref="humanities"/>
+    <file name="productions-favicon.ico" crc="202238207" ref="sd-productions"/>
+    <file name="productions.jpg" crc="515259086" ref="sd-productions" seo="true"/>
+    <file name="u9614-4.png" crc="259145875" ref="sd-productions"/>
+    <file name="u9615-4.png" crc="266558426" ref="sd-productions"/>
+    <file name="u9616-4.png" crc="4138709452" ref="sd-productions"/>
+    <file name="creative-thinking.jpg" crc="3960924784" ref="sd-productions" seo="true"/>
+    <file name="u9625-4.png" crc="4005424232" ref="sd-productions"/>
+    <file name="adobe_creative_cloud.gif" crc="3910220712" ref="sd-productions" seo="true"/>
+    <file name="protools.jpg" crc="412408687" ref="sd-productions" seo="true"/>
+    <file name="cs6.jpg" crc="4135244957" ref="sd-productions" seo="true"/>
+    <file name="u9632-4.png" crc="431230384" ref="sd-productions"/>
+    <file name="miscellaneous projects.jpg" crc="80634101" ref="miscellaneous-projects" seo="true"/>
+    <file name="u14092-4.png" crc="4179089145" ref="miscellaneous-projects"/>
+    <file name="helianthus.jpg" crc="3940931648" ref="miscellaneous-projects" seo="true"/>
+    <file name="helianthus-pollinators.jpg" crc="4287789760" ref="miscellaneous-projects" seo="true"/>
+    <file name="helianthus-huntingpositions.jpg" crc="404357278" ref="miscellaneous-projects" seo="true"/>
+    <file name="helianthus-hunts.jpg" crc="3902234628" ref="miscellaneous-projects" seo="true"/>
+    <file name="helianthus-fire.jpg" crc="177324711" ref="miscellaneous-projects" seo="true"/>
+    <file name="u14093-4.png" crc="3828908040" ref="miscellaneous-projects"/>
+    <file name="u14086-4.png" crc="3912601832" ref="miscellaneous-projects"/>
+    <file name="u23992-4.png" crc="423139789" ref="miscellaneous-projects"/>
+    <file name="weymouth herring run.png" crc="4238757473" ref="river-herring-migration-weymouth-herring-run" seo="true"/>
+    <file name="u20050-6.png" crc="3789357936" ref="river-herring-migration-weymouth-herring-run"/>
+    <file name="u20159-4.png" crc="85593134" ref="river-herring-migration-weymouth-herring-run"/>
+    <file name="u20046-4.png" crc="4241936841" ref="river-herring-migration-weymouth-herring-run"/>
+    <file name="u20044-4.png" crc="174039490" ref="river-herring-migration-weymouth-herring-run"/>
+    <file name="u20158-4.png" crc="3852310912" ref="river-herring-migration-weymouth-herring-run"/>
+    <file name="u24923-4.png" crc="453499596" ref="river-herring-migration-weymouth-herring-run"/>
+    <file name="u20047-4.png" crc="512972667" ref="river-herring-migration-weymouth-herring-run"/>
+    <file name="u25056-7.png" crc="130869010" ref="river-herring-migration-weymouth-herring-run"/>
+    <file name="u23337-4.png" crc="423139789" ref="river-herring-migration-weymouth-herring-run"/>
+    <file name="the recovery.jpg" crc="4105408979" ref="river-herring-migration-a-complicated-path-the-recovery" seo="true"/>
+    <file name="u20353-6.png" crc="4179308668" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="u20247-4.png" crc="85593134" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="ig13-ek.jpg" crc="4231926968" ref="river-herring-migration-a-complicated-path-the-recovery" seo="true"/>
+    <file name="ig21-dw.jpg" crc="3925402190" ref="river-herring-migration-a-complicated-path-the-recovery" seo="true"/>
+    <file name="u20253-4.png" crc="4241936841" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="u20498-4.png" crc="174039490" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="u20249-4.png" crc="3852310912" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="u24929-4.png" crc="453499596" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="u20344-4.png" crc="512972667" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="u25058-7.png" crc="130869010" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="u23206-4.png" crc="423139789" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="cd,dvd,download.jpg" crc="74104764" ref="sd-store"/>
+    <file name="u25464-6.png" crc="257304491" ref="the-marine-impact"/>
+    <file name="u25462-4.png" crc="74770175" ref="the-marine-impact"/>
+    <file name="u25451-4.png" crc="478951666" ref="the-marine-impact"/>
+    <file name="u25458-4.png" crc="3852310912" ref="the-marine-impact"/>
+    <file name="u25455-4.png" crc="3912601832" ref="the-marine-impact"/>
+    <file name="u25465-4.png" crc="423139789" ref="the-marine-impact"/>
+    <file name="u5387-4.png" crc="4040497104" ref="the-avifauna-puzzle"/>
+    <file name="indexmain 20 s-normal.png" crc="409359727" ref="index"/>
+    <file name="indexmain 20 s-rollover.png" crc="170174986" ref="index"/>
+    <file name="indexmain 20 s-down.png" crc="170174986" ref="index"/>
+    <file name="indexmain 20 h-normal.png" crc="3927535468" ref="index"/>
+    <file name="indexmain 20 h-rollover.png" crc="4039468050" ref="index"/>
+    <file name="indexmain 20 h-down.png" crc="4039468050" ref="index"/>
+    <file name="facebookg-normal.png" crc="4167706184" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact"/>
+    <file name="facebookg-rollover.png" crc="431384028" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact"/>
+    <file name="facebookg-down.png" crc="431384028" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact"/>
+    <file name="twitterg-normal.png" crc="3792862274" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact"/>
+    <file name="twitterg-rollover.png" crc="156413869" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact"/>
+    <file name="twitterg-down.png" crc="156413869" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact"/>
+    <file name="youtube2g-normal.png" crc="395503211" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact"/>
+    <file name="youtube2g-rollover.png" crc="243396593" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact"/>
+    <file name="youtube2g-down.png" crc="243396593" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact"/>
+    <file name="sdtop-pages-favicon.ico" crc="202238207" ref="sd-creations"/>
+    <file name="u1350-3.png" crc="314617014" ref="sd-creations:sd-services:sd-about"/>
+    <file name="topnavigation20-creations.png" crc="94328324" seo="true" ref="sd-creations:sd-services:sd-about:the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:sd-project-themes:sd-contact:sd-profile:sd-terms-of-use:sd-productions:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:sd-store:the-marine-impact"/>
+    <file name="topnavigation20-creationh-h-normal.png" crc="4034897092" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact"/>
+    <file name="topnavigation20-creationh-h-rollover.png" crc="4281433182" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact"/>
+    <file name="topnavigation20-creationh-h-down.png" crc="4281433182" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact"/>
+    <file name="topnavigation20-creationh-h-active.png" crc="4281433182" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact"/>
+    <file name="buttons-creations-sd-normal.png" crc="3997026760" ref="sd-creations:sd-project-themes:sd-contact"/>
+    <file name="buttons-creations-sd-over.png" crc="124370791" ref="sd-creations:sd-project-themes:sd-contact"/>
+    <file name="buttons-creations-sd-down.png" crc="124370791" ref="sd-creations:sd-project-themes:sd-contact"/>
+    <file name="buttons-creations-sd-active.png" crc="124370791" ref="sd-creations:sd-project-themes:sd-contact"/>
+    <file name="buttons-services-sd-normal.png" crc="4146078083" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-contact"/>
+    <file name="buttons-services-sd-over.png" crc="3975196017" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-contact"/>
+    <file name="buttons-services-sd-down.png" crc="3975196017" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-contact"/>
+    <file name="buttons-services-sd-active.png" crc="3975196017" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-contact"/>
+    <file name="buttons-about-sd-normal.png" crc="4004079312" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes"/>
+    <file name="buttons-about-sd-over.png" crc="4169912069" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes"/>
+    <file name="buttons-about-sd-down.png" crc="4169912069" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes"/>
+    <file name="buttons-about-sd-active.png" crc="4169912069" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes"/>
+    <file name="u26013-4.png" crc="4196670392" ref="sd-creations"/>
+    <file name="b-a natural history-normal.png" crc="501311846" ref="sd-creations"/>
+    <file name="b-a natural history-rollover.png" crc="4227617143" ref="sd-creations"/>
+    <file name="b-a natural history-down.png" crc="4227617143" ref="sd-creations"/>
+    <file name="b-the-great-decline-normal.png" crc="329505121" ref="sd-creations"/>
+    <file name="b-the-great-decline-rollover.png" crc="3795873998" ref="sd-creations"/>
+    <file name="b-the-great-decline-down.png" crc="3795873998" ref="sd-creations"/>
+    <file name="b-the-recovery-normal.png" crc="4083225055" ref="sd-creations"/>
+    <file name="b-the-recovery-rollover.png" crc="4086028517" ref="sd-creations"/>
+    <file name="b-the-recovery-down.png" crc="4086028517" ref="sd-creations"/>
+    <file name="b-weymouth herring run-normal.png" crc="4281713987" ref="sd-creations"/>
+    <file name="b-weymouth herring run-rollover.png" crc="308931566" ref="sd-creations"/>
+    <file name="b-weymouth herring run-down.png" crc="308931566" ref="sd-creations"/>
+    <file name="b-mystic herring run-normal.png" crc="3769062115" ref="sd-creations"/>
+    <file name="b-mystic herring run-rollover.png" crc="133946995" ref="sd-creations"/>
+    <file name="b-mystic herring run-down.png" crc="133946995" ref="sd-creations"/>
+    <file name="b-soundtrack-normal.png" crc="3912484356" ref="sd-creations"/>
+    <file name="b-soundtrack-rollover.png" crc="3925202703" ref="sd-creations"/>
+    <file name="b-soundtrack-down.png" crc="3925202703" ref="sd-creations"/>
+    <file name="b-benthos opportunists - a natural history-rollover.png" crc="4192909532" ref="sd-creations"/>
+    <file name="b-benthos opportunists - a natural history-down.png" crc="4192909532" ref="sd-creations"/>
+    <file name="b-the blanding-s dilemma-normal.png" crc="84105603" ref="sd-creations"/>
+    <file name="b-the blanding-s dilemma-rollover.png" crc="77930167" ref="sd-creations"/>
+    <file name="b-the blanding-s dilemma-down.png" crc="77930167" ref="sd-creations"/>
+    <file name="b-the northeast avifauna puzzle-normal.jpg" crc="80142333" ref="sd-creations"/>
+    <file name="b-the northeast avifauna puzzle-rollover.png" crc="3879713731" ref="sd-creations"/>
+    <file name="b-the northeast avifauna puzzle-down.png" crc="3879713731" ref="sd-creations"/>
+    <file name="b-the flora question-normal.jpg" crc="358757210" ref="sd-creations"/>
+    <file name="b-the flora question-rollover.png" crc="3970492947" ref="sd-creations"/>
+    <file name="b-the flora question-down.png" crc="3970492947" ref="sd-creations"/>
+    <file name="b-muddyriver-normal.png" crc="177129163" ref="sd-creations"/>
+    <file name="b-muddyriver-rollover.png" crc="221081787" ref="sd-creations"/>
+    <file name="b-muddyriver-down.png" crc="221081787" ref="sd-creations"/>
+    <file name="b-nature visitor center-normal.png" crc="3796221383" ref="sd-creations"/>
+    <file name="b-nature visitor center-rollover.png" crc="4202389813" ref="sd-creations"/>
+    <file name="b-nature visitor center-down.png" crc="4202389813" ref="sd-creations"/>
+    <file name="b-miscellaneous projects-normal.png" crc="3844540462" ref="sd-creations"/>
+    <file name="b-miscellaneous projects-rollover.png" crc="390958818" ref="sd-creations"/>
+    <file name="b-miscellaneous projects-down.png" crc="390958818" ref="sd-creations"/>
+    <file name="sdcreations-favicon.ico" crc="202238207" ref="the-benthos-opportunists-a-natural-history"/>
+    <file name="u26293-3.png" crc="314617014" ref="the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:the-marine-impact"/>
+    <file name="ig1-ma-crop-u17663.jpg" crc="3876304613" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="ig2-dc-crop-u17701.jpg" crc="4173074948" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="ig3-bc-crop-u17697.jpg" crc="87194190" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="ig5-jd-crop-u17687.jpg" crc="4282479451" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="ig6-sd-crop-u17693.jpg" crc="4217211665" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="ig7-pd-crop-u17675.jpg" crc="437759173" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="ig8-ph-crop-u17665.jpg" crc="383595225" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="ig9-el-crop-u17667.jpg" crc="3760053963" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="ig10-pl-crop-u17683.jpg" crc="217171510" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="ig11-lc-crop-u17677.jpg" crc="333182906" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="ig12-ek-crop-u17699.jpg" crc="4095626384" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="ig14-jk-crop-u17673.jpg" crc="458012633" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="ig15-ng-crop-u17661.jpg" crc="3852386557" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="ig16-am-crop-u17679.jpg" crc="333826534" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="ig17-jm-crop-u17689.jpg" crc="72005179" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="ig18-js-crop-u17669.jpg" crc="4189569924" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="ig19-rs-crop-u17671.jpg" crc="3944377543" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="ig20-tw-crop-u17681.jpg" crc="3861414581" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="ig22-sw-crop-u17695.jpg" crc="362510114" ref="river-herring-migration-a-complicated-path-the-great-decline"/>
+    <file name="ig1-ma-crop-u17953.jpg" crc="3876304613" ref="river-herring-migration-the-mystic-herring-run"/>
+    <file name="ig3-bc-crop-u17993.jpg" crc="87194190" ref="river-herring-migration-the-mystic-herring-run"/>
+    <file name="ig6-sd-crop-u17957.jpg" crc="4217211665" ref="river-herring-migration-the-mystic-herring-run"/>
+    <file name="ig24-es-crop-u19034.jpg" crc="3924806919" ref="river-herring-migration-the-mystic-herring-run"/>
+    <file name="ig8-ph-crop-u17951.jpg" crc="383595225" ref="river-herring-migration-the-mystic-herring-run"/>
+    <file name="ig11-lc-crop-u17975.jpg" crc="333182906" ref="river-herring-migration-the-mystic-herring-run"/>
+    <file name="ig12-ek-crop-u17963.jpg" crc="4095626384" ref="river-herring-migration-the-mystic-herring-run"/>
+    <file name="ig14-jk-crop-u17973.jpg" crc="458012633" ref="river-herring-migration-the-mystic-herring-run"/>
+    <file name="ig23-mf-crop-u18045.jpg" crc="199109022" ref="river-herring-migration-the-mystic-herring-run"/>
+    <file name="ig15-ng-crop-u17955.jpg" crc="3852386557" ref="river-herring-migration-the-mystic-herring-run"/>
+    <file name="ig18-js-crop-u17989.jpg" crc="4189569924" ref="river-herring-migration-the-mystic-herring-run"/>
+    <file name="ig24-mm-crop-u19183.jpg" crc="4257459487" ref="river-herring-migration-the-mystic-herring-run"/>
+    <file name="ig-philipwyne-crop-u18060.jpg" crc="4231764708" ref="river-herring-migration-the-mystic-herring-run"/>
+    <file name="favicon.ico" crc="236116606" ref="sd-project-themes"/>
+    <file name="u26300-3.png" crc="314617014" ref="sd-project-themes:sd-productions:sd-store"/>
+    <file name="u26314-3.png" crc="314617014" ref="sd-project-themes:sd-productions:sd-store"/>
+    <file name="sd--about-favicon.ico" crc="471429229" ref="sd-contact"/>
+    <file name="u26309-3.png" crc="314617014" ref="sd-contact:sd-profile:sd-terms-of-use"/>
+    <file name="facebookg-active.png" crc="431384028" ref="sd-contact:index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes"/>
+    <file name="twitterg-active.png" crc="156413869" ref="sd-contact:index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes"/>
+    <file name="youtube2g-active.png" crc="243396593" ref="sd-contact:index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes"/>
+    <file name="vimeog.png" crc="4184501164" ref="sd-contact"/>
+    <file name="vimeog-rollover.png" crc="4162135938" ref="sd-contact"/>
+    <file name="vimeog-down.png" crc="4162135938" ref="sd-contact"/>
+    <file name="vimeog-active.png" crc="4162135938" ref="sd-contact"/>
+    <file name="tumblrg.png" crc="514571267" ref="sd-contact"/>
+    <file name="tumblrg-rollover.png" crc="448159177" ref="sd-contact"/>
+    <file name="tumblrg-down.png" crc="448159177" ref="sd-contact"/>
+    <file name="tumblrg-active.png" crc="448159177" ref="sd-contact"/>
+    <file name="g-.png" crc="215107041" ref="sd-contact"/>
+    <file name="g--rollover.png" crc="4093084944" ref="sd-contact"/>
+    <file name="g--down.png" crc="4093084944" ref="sd-contact"/>
+    <file name="g--active.png" crc="4093084944" ref="sd-contact"/>
+    <file name="topnavigation20-s-normal.png" crc="488469710" ref="humanities"/>
+    <file name="topnavigation20-s-rollover.png" crc="4149146759" ref="humanities"/>
+    <file name="topnavigation20-s-down.png" crc="4149146759" ref="humanities"/>
+    <file name="topnavigation20-hd.png" crc="4011652885" seo="true" ref="humanities"/>
+    <file name="facebookb.png" crc="3843574315" ref="humanities"/>
+    <file name="facebookb-rollover.png" crc="431384028" ref="humanities"/>
+    <file name="facebookb-down.png" crc="431384028" ref="humanities"/>
+    <file name="twitterb.png" crc="192148223" ref="humanities"/>
+    <file name="twitterb-rollover.png" crc="156413869" ref="humanities"/>
+    <file name="twitterb-down.png" crc="156413869" ref="humanities"/>
+    <file name="youtube2b.png" crc="440226805" ref="humanities"/>
+    <file name="youtube2b-rollover.png" crc="4046137991" ref="humanities"/>
+    <file name="youtube2b-down.png" crc="4046137991" ref="humanities"/>
+    <file name="ig1-ma-crop-u19993.jpg" crc="3876304613" ref="river-herring-migration-weymouth-herring-run"/>
+    <file name="ig3-bc-crop-u19981.jpg" crc="87194190" ref="river-herring-migration-weymouth-herring-run"/>
+    <file name="ig6-sd-crop-u19991.jpg" crc="4217211665" ref="river-herring-migration-weymouth-herring-run"/>
+    <file name="ig8-ph-crop-u19953.jpg" crc="383595225" ref="river-herring-migration-weymouth-herring-run"/>
+    <file name="ig10-pl-crop-u19987.jpg" crc="217171510" ref="river-herring-migration-weymouth-herring-run"/>
+    <file name="ig22-sw-crop-u19975.jpg" crc="362510114" ref="river-herring-migration-weymouth-herring-run"/>
+    <file name="ig1-ma-crop-u20384.jpg" crc="3876304613" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="ig2-dc-crop-u20404.jpg" crc="4173074948" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="ig3-bc-crop-u20422.jpg" crc="87194190" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="ig5-jd-crop-u20416.jpg" crc="4282479451" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="ig6-sd-crop-u20388.jpg" crc="4217211665" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="ig7-pd-crop-u20394.jpg" crc="437759173" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="ig8-ph-crop-u20426.jpg" crc="383595225" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="ig9-el-crop-u20402.jpg" crc="3760053963" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="ig10-pl-crop-u20410.jpg" crc="217171510" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="ig11-lc-crop-u20406.jpg" crc="333182906" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="ig12-ek-crop-u20396.jpg" crc="4095626384" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="ig13-ek-crop-u20412.jpg" crc="393200113" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="ig14-jk-crop-u20418.jpg" crc="458012633" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="ig15-ng-crop-u20414.jpg" crc="3852386557" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="ig16-am-crop-u20390.jpg" crc="333826534" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="ig17-jm-crop-u20398.jpg" crc="72005179" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="ig18-js-crop-u20420.jpg" crc="4189569924" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="ig19-rs-crop-u20424.jpg" crc="3944377543" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="ig21-dw-crop-u20386.jpg" crc="4106833536" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="ig20-tw-crop-u20408.jpg" crc="3861414581" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="ig22-sw-crop-u20400.jpg" crc="362510114" ref="river-herring-migration-a-complicated-path-the-recovery"/>
+    <file name="topnavigation20-s-active.png" crc="4149146759" ref="humanities"/>
+  </folder>
+  <file name="index.html" crc="3990729092" mt="1463662306225" redirect="true" seo="true"/>
+  <file name="sd-creations.html" crc="348507711" mt="1463662167320" redirect="true" seo="true"/>
+  <file name="sd-services.html" crc="354844617" mt="1463662167320" redirect="true" seo="true"/>
+  <file name="sd-about.html" crc="4175525096" mt="1463662167320" redirect="true" seo="true"/>
+  <file name="the-benthos-opportunists-a-natural-history.html" crc="4150393683" mt="1463662194050" redirect="true" seo="true"/>
+  <file name="the-blandings-dilemma.html" crc="4266078409" mt="1463662194050" redirect="true" seo="true"/>
+  <file name="river-herring-migration-a-natural-history.html" crc="4042011164" mt="1463662194050" redirect="true" seo="true"/>
+  <file name="river-herring-migration-a-complicated-path-the-great-decline.html" crc="3777308107" mt="1463662194050" redirect="true" seo="true"/>
+  <file name="river-herring-migration-the-mystic-herring-run.html" crc="4281826845" mt="1463662194050" redirect="true" seo="true"/>
+  <file name="the-avifauna-puzzle.html" crc="4275874639" mt="1463662194050" redirect="true" seo="true"/>
+  <file name="the-flora-question.html" crc="54887376" mt="1463662194050" redirect="true" seo="true"/>
+  <file name="a-muddy-river.html" crc="4263306020" mt="1463662194050" redirect="true" seo="true"/>
+  <file name="nature-visitor-centers.html" crc="4169514994" mt="1463662194050" redirect="true" seo="true"/>
+  <file name="river-herring-migration-complete-soundtrack.html" crc="3908018257" mt="1463662194050" redirect="true" seo="true"/>
+  <file name="sd-project-themes.html" crc="72365038" mt="1463662232126" redirect="true" seo="true"/>
+  <file name="sd-contact.html" crc="3881517439" mt="1463662274290" redirect="true" seo="true"/>
+  <file name="sd-profile.html" crc="217333185" mt="1463662274290" redirect="true" seo="true"/>
+  <file name="sd-terms-of-use.html" crc="471426812" mt="1463662274290" redirect="true" seo="true"/>
+  <file name="humanities.html" crc="4090171506" mt="1463661653992" redirect="true" seo="true"/>
+  <file name="sd-productions.html" crc="3922771929" mt="1463662232126" redirect="true" seo="true"/>
+  <file name="miscellaneous-projects.html" crc="377399180" mt="1463662194050" redirect="true" seo="true"/>
+  <file name="river-herring-migration-weymouth-herring-run.html" crc="4340481" mt="1463662194050" redirect="true" seo="true"/>
+  <file name="river-herring-migration-a-complicated-path-the-recovery.html" crc="3761741782" mt="1463662194050" redirect="true" seo="true"/>
+  <file name="sd-store.html" crc="3830237600" mt="1463662232126" redirect="true" seo="true"/>
+  <file name="the-marine-impact.html" crc="140801036" mt="1463662194050" redirect="true" seo="true"/>
+</manifest>
