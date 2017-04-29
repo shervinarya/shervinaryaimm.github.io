@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.illuminatingmindsmedia.com" resolutions="1x" timestamp="1463663654391">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.illuminatingmindsmedia.com" resolutions="1x" timestamp="1493435949589">
   <folder name="css">
     <file name="site_global.css" crc="4127633285"/>
     <file name="master_sdtop-pages.css" crc="3772522660" ref="sd-creations:sd-services:sd-about"/>
@@ -11,7 +11,7 @@
     <file name="index.css" crc="4276466430" ref="index"/>
     <file name="river-herring-migration-complete-soundtrack.css" crc="81637804" ref="river-herring-migration-complete-soundtrack"/>
     <file name="sd-project-themes.css" crc="44438525" ref="sd-project-themes"/>
-    <file name="sd-contact.css" crc="59618248" ref="sd-contact"/>
+    <file name="sd-contact.css" crc="16833782" ref="sd-contact"/>
     <file name="sd-profile.css" crc="4145707984" ref="sd-profile"/>
     <file name="sd-terms-of-use.css" crc="4184327835" ref="sd-terms-of-use"/>
     <file name="humanities.css" crc="4276395604" ref="humanities"/>
@@ -33,13 +33,10 @@
     <file name="the-flora-question.css" crc="251744713" ref="the-flora-question"/>
     <file name="a-muddy-river.css" crc="4003452322" ref="a-muddy-river"/>
   </folder>
-  <folder name="assets">
-    <file name="imm-logo-sd-division.jpg" crc="3923470297" mt="1395759863000"/>
-  </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:sd-creations:sd-services:sd-about:the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:sd-project-themes:sd-contact:sd-profile:sd-terms-of-use:humanities:sd-productions:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:sd-store:the-marine-impact"/>
     <file name="museutils.js" crc="275725342" ref="index:sd-creations:sd-services:sd-about:the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:sd-project-themes:sd-contact:sd-profile:sd-terms-of-use:humanities:sd-productions:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:sd-store:the-marine-impact"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact:humanities:sd-store"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact:humanities:sd-store:sd-services"/>
     <file name="jquery.musemenu.js" crc="4042164668" ref="index:sd-creations:sd-services:sd-about:the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:sd-project-themes:sd-contact:sd-profile:sd-terms-of-use:humanities:sd-productions:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:sd-store:the-marine-impact"/>
     <file name="webpro.js" crc="3883484123" ref="the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:the-marine-impact"/>
     <file name="musewpslideshow.js" crc="360574455" ref="the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:the-marine-impact"/>
@@ -183,7 +180,6 @@
     <file name="u13928-4.png" crc="431230384" ref="sd-project-themes"/>
     <file name="contactus.png" crc="358592279" ref="sd-contact" seo="true"/>
     <file name="u4334-4.png" crc="358148762" ref="sd-contact"/>
-    <file name="u6283-4.png" crc="321204711" ref="sd-contact"/>
     <file name="u4336-4.png" crc="296342269" ref="sd-contact"/>
     <file name="u4337-4.png" crc="4188020375" ref="sd-contact"/>
     <file name="opening lcd font poster facebook.jpg" crc="3924201635" ref="sd-profile" seo="true"/>
@@ -250,34 +246,34 @@
     <file name="indexmain 20 h-normal.png" crc="3927535468" ref="index"/>
     <file name="indexmain 20 h-rollover.png" crc="4039468050" ref="index"/>
     <file name="indexmain 20 h-down.png" crc="4039468050" ref="index"/>
-    <file name="facebookg-normal.png" crc="4167706184" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact"/>
-    <file name="facebookg-rollover.png" crc="431384028" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact"/>
-    <file name="facebookg-down.png" crc="431384028" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact"/>
-    <file name="twitterg-normal.png" crc="3792862274" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact"/>
-    <file name="twitterg-rollover.png" crc="156413869" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact"/>
-    <file name="twitterg-down.png" crc="156413869" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact"/>
-    <file name="youtube2g-normal.png" crc="395503211" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact"/>
-    <file name="youtube2g-rollover.png" crc="243396593" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact"/>
-    <file name="youtube2g-down.png" crc="243396593" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact"/>
-    <file name="sdtop-pages-favicon.ico" crc="202238207" ref="sd-creations"/>
+    <file name="facebookg-normal.png" crc="4167706184" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact:sd-services"/>
+    <file name="facebookg-rollover.png" crc="431384028" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact:sd-services"/>
+    <file name="facebookg-down.png" crc="431384028" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact:sd-services"/>
+    <file name="twitterg-normal.png" crc="3792862274" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact:sd-services"/>
+    <file name="twitterg-rollover.png" crc="156413869" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact:sd-services"/>
+    <file name="twitterg-down.png" crc="156413869" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact:sd-services"/>
+    <file name="youtube2g-normal.png" crc="395503211" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact:sd-services"/>
+    <file name="youtube2g-rollover.png" crc="243396593" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact:sd-services"/>
+    <file name="youtube2g-down.png" crc="243396593" ref="index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact:sd-services"/>
+    <file name="sdtop-pages-favicon.ico" crc="202238207" ref="sd-creations:sd-services"/>
     <file name="u1350-3.png" crc="314617014" ref="sd-creations:sd-services:sd-about"/>
     <file name="topnavigation20-creations.png" crc="94328324" seo="true" ref="sd-creations:sd-services:sd-about:the-benthos-opportunists-a-natural-history:the-blandings-dilemma:river-herring-migration-a-natural-history:river-herring-migration-a-complicated-path-the-great-decline:river-herring-migration-the-mystic-herring-run:the-avifauna-puzzle:the-flora-question:a-muddy-river:nature-visitor-centers:river-herring-migration-complete-soundtrack:sd-project-themes:sd-contact:sd-profile:sd-terms-of-use:sd-productions:miscellaneous-projects:river-herring-migration-weymouth-herring-run:river-herring-migration-a-complicated-path-the-recovery:sd-store:the-marine-impact"/>
-    <file name="topnavigation20-creationh-h-normal.png" crc="4034897092" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact"/>
-    <file name="topnavigation20-creationh-h-rollover.png" crc="4281433182" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact"/>
-    <file name="topnavigation20-creationh-h-down.png" crc="4281433182" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact"/>
-    <file name="topnavigation20-creationh-h-active.png" crc="4281433182" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact"/>
-    <file name="buttons-creations-sd-normal.png" crc="3997026760" ref="sd-creations:sd-project-themes:sd-contact"/>
-    <file name="buttons-creations-sd-over.png" crc="124370791" ref="sd-creations:sd-project-themes:sd-contact"/>
-    <file name="buttons-creations-sd-down.png" crc="124370791" ref="sd-creations:sd-project-themes:sd-contact"/>
-    <file name="buttons-creations-sd-active.png" crc="124370791" ref="sd-creations:sd-project-themes:sd-contact"/>
-    <file name="buttons-services-sd-normal.png" crc="4146078083" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-contact"/>
-    <file name="buttons-services-sd-over.png" crc="3975196017" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-contact"/>
-    <file name="buttons-services-sd-down.png" crc="3975196017" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-contact"/>
-    <file name="buttons-services-sd-active.png" crc="3975196017" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-contact"/>
-    <file name="buttons-about-sd-normal.png" crc="4004079312" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes"/>
-    <file name="buttons-about-sd-over.png" crc="4169912069" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes"/>
-    <file name="buttons-about-sd-down.png" crc="4169912069" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes"/>
-    <file name="buttons-about-sd-active.png" crc="4169912069" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes"/>
+    <file name="topnavigation20-creationh-h-normal.png" crc="4034897092" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact:sd-services"/>
+    <file name="topnavigation20-creationh-h-rollover.png" crc="4281433182" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact:sd-services"/>
+    <file name="topnavigation20-creationh-h-down.png" crc="4281433182" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact:sd-services"/>
+    <file name="topnavigation20-creationh-h-active.png" crc="4281433182" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-contact:sd-services"/>
+    <file name="buttons-creations-sd-normal.png" crc="3997026760" ref="sd-creations:sd-project-themes:sd-contact:sd-services"/>
+    <file name="buttons-creations-sd-over.png" crc="124370791" ref="sd-creations:sd-project-themes:sd-contact:sd-services"/>
+    <file name="buttons-creations-sd-down.png" crc="124370791" ref="sd-creations:sd-project-themes:sd-contact:sd-services"/>
+    <file name="buttons-creations-sd-active.png" crc="124370791" ref="sd-creations:sd-project-themes:sd-contact:sd-services"/>
+    <file name="buttons-services-sd-normal.png" crc="4146078083" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-contact:sd-services"/>
+    <file name="buttons-services-sd-over.png" crc="3975196017" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-contact:sd-services"/>
+    <file name="buttons-services-sd-down.png" crc="3975196017" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-contact:sd-services"/>
+    <file name="buttons-services-sd-active.png" crc="3975196017" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-contact:sd-services"/>
+    <file name="buttons-about-sd-normal.png" crc="4004079312" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-services"/>
+    <file name="buttons-about-sd-over.png" crc="4169912069" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-services"/>
+    <file name="buttons-about-sd-down.png" crc="4169912069" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-services"/>
+    <file name="buttons-about-sd-active.png" crc="4169912069" ref="sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-services"/>
     <file name="u26013-4.png" crc="4196670392" ref="sd-creations"/>
     <file name="b-a natural history-normal.png" crc="501311846" ref="sd-creations"/>
     <file name="b-a natural history-rollover.png" crc="4227617143" ref="sd-creations"/>
@@ -356,9 +352,9 @@
     <file name="u26314-3.png" crc="314617014" ref="sd-project-themes:sd-productions:sd-store"/>
     <file name="sd--about-favicon.ico" crc="471429229" ref="sd-contact"/>
     <file name="u26309-3.png" crc="314617014" ref="sd-contact:sd-profile:sd-terms-of-use"/>
-    <file name="facebookg-active.png" crc="431384028" ref="sd-contact:index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes"/>
-    <file name="twitterg-active.png" crc="156413869" ref="sd-contact:index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes"/>
-    <file name="youtube2g-active.png" crc="243396593" ref="sd-contact:index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes"/>
+    <file name="facebookg-active.png" crc="431384028" ref="sd-contact:index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-services"/>
+    <file name="twitterg-active.png" crc="156413869" ref="sd-contact:index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-services"/>
+    <file name="youtube2g-active.png" crc="243396593" ref="sd-contact:index:sd-creations:the-benthos-opportunists-a-natural-history:sd-project-themes:sd-services"/>
     <file name="vimeog.png" crc="4184501164" ref="sd-contact"/>
     <file name="vimeog-rollover.png" crc="4162135938" ref="sd-contact"/>
     <file name="vimeog-down.png" crc="4162135938" ref="sd-contact"/>
@@ -415,7 +411,7 @@
   </folder>
   <file name="index.html" crc="3990729092" mt="1463662306225" redirect="true" seo="true"/>
   <file name="sd-creations.html" crc="348507711" mt="1463662167320" redirect="true" seo="true"/>
-  <file name="sd-services.html" crc="354844617" mt="1463662167320" redirect="true" seo="true"/>
+  <file name="sd-services.html" crc="294649840" mt="1463662167320" redirect="true" seo="true"/>
   <file name="sd-about.html" crc="4175525096" mt="1463662167320" redirect="true" seo="true"/>
   <file name="the-benthos-opportunists-a-natural-history.html" crc="4150393683" mt="1463662194050" redirect="true" seo="true"/>
   <file name="the-blandings-dilemma.html" crc="4266078409" mt="1463662194050" redirect="true" seo="true"/>
@@ -428,7 +424,7 @@
   <file name="nature-visitor-centers.html" crc="4169514994" mt="1463662194050" redirect="true" seo="true"/>
   <file name="river-herring-migration-complete-soundtrack.html" crc="3908018257" mt="1463662194050" redirect="true" seo="true"/>
   <file name="sd-project-themes.html" crc="72365038" mt="1463662232126" redirect="true" seo="true"/>
-  <file name="sd-contact.html" crc="3881517439" mt="1463662274290" redirect="true" seo="true"/>
+  <file name="sd-contact.html" crc="171512141" mt="1493435771474" redirect="true" seo="true"/>
   <file name="sd-profile.html" crc="217333185" mt="1463662274290" redirect="true" seo="true"/>
   <file name="sd-terms-of-use.html" crc="471426812" mt="1463662274290" redirect="true" seo="true"/>
   <file name="humanities.html" crc="4090171506" mt="1463661653992" redirect="true" seo="true"/>
